@@ -2,6 +2,7 @@ package com.github.carlosmaniero.dddspringevents.example.domain.order;
 
 import com.github.carlosmaniero.dddspringevents.domain.AggregateRoot;
 import com.github.carlosmaniero.dddspringevents.domain.DomainEventListener;
+import com.github.carlosmaniero.dddspringevents.domain.DomainPublishEvent;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
